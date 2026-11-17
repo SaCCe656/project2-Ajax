@@ -33,7 +33,7 @@ Example:
 
 - **Published application:** [Add your GitHub Pages URL here](https://sacce656.github.io/project2-Ajax/)
 - **GitHub repository:** [Add your repository URL here](https://github.com/SaCCe656/project2-Ajax)
-- **Project video presentation:** [Add your video URL here](https://example.com/)
+- **Project video presentation:** [Add your video URL here](https://www.youtube.com/watch?v=1nrvdg5zSQA)
 
 ## About the application
 
