@@ -22,7 +22,7 @@ Add an image of your hand-drawn or digitally created application wireframe here.
 
 Example:
 
-![Wireframe](img/pictures/Music_explorer.png)
+![Music Explorer prototype](pictures/Music_explorer.png)
 
 ## Web links
 
