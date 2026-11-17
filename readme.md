@@ -1,20 +1,22 @@
-# Project name
+Music explorer
 
-**Author(s):** Write your name / the names of all authors here
+Samu asplund
 
 ## Project plan
 
 ### Project idea
 
-Briefly describe what your application does and who it is intended for.
-
+The idea is to create a app where you can search artists or bands and get information such as their top 5 most listened songs, monthly listeners and similar bands/artists. The application is made with last.fm api. The application can be used by anyone who wants get more information about music in general.
 ### Planned features
 
 List at least three features you plan to include in your application:
 
 - Feature 1
+User can search a artist/band and get their top 5 most listened songs
 - Feature 2
+The application will display their monthly listeners
 - Feature 3
+The application will display similiar artists based on their music.
 
 ### Wireframe / sketch
 
